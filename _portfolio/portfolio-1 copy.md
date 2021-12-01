@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "OLS and lasso for gender wage gap inference"
+excerpt: "[Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/Grupo%204_lab1%20(Python)%20(2).ipynb): We replecate a paper in wage and gender gap."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This was a workgroup for a class, base in the paper of [Jannis Kueck](https://www.kaggle.com/janniskueck/ols-and-lasso-for-gender-wage-gap-inference?scriptVersionId=68863074). We replicate the results on the gender and income gap with OLS and lasso methods. <br>
+[Script in R]("https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/Grupo%204_lab1%20(Python)%20(2).ipynb")<br>
+[Script in Python](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/Grupo%204_lab1%20(Python)%20(2).ipynb) 
+<br>
+<br/><img src='/images/wagegap.png'>
