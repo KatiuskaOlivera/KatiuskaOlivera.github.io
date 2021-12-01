@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Katiuska Olivera"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Katiuska Olivera"
 description              : &description "Economics student trying to learn how to code" 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Katiuska Olivera"
   avatar           : "profile.png"
-  bio              : "Economist in progress"
+  bio              : "Economist in progress 🌵🌸"
   location         : "Lima, Perú"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
