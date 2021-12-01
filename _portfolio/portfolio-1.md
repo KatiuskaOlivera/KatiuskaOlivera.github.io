@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Heating Maps of elections in Perú"
+excerpt: "[Script](https://github.com/KatiuskaOlivera/KatiuskaOlivera.github.io/blob/master/files/Mapas%20de%20calor%20.ipynb): Plot of Maps in base of the election of 2020."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using the data of the election of 2020 in Perú, as part of a evaluation in one class, we plot heating maps of the candidates who win in each district of Lima-Perú. 
+<br>
+[Script](https://github.com/KatiuskaOlivera/KatiuskaOlivera.github.io/blob/master/files/Mapas%20de%20calor%20.ipynb)
+<br/><img src='/images/mapita.png'>"

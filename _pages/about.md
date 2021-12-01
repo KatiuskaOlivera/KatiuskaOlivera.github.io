@@ -15,7 +15,3 @@ About Me
 <br>
 Moreover, besides pretending that I know what I'm doing in life, I'm very good at tetris. 
 <p>
-<br>
-<p style='text-align: right;'>
-<img src='/images/"unnamed.gif">
-<p>
