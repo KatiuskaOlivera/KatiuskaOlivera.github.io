@@ -8,3 +8,4 @@ This was a workgroup for a class, base in the paper of [Jannis Kueck](https://ww
 [Script in Python](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/Grupo%204_lab1%20(Python)%20(2).ipynb) 
 <br>
 <br/><img src='/images/wagegap.png'>
+
