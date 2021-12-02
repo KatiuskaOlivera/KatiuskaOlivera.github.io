@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Benefits in deficiency: case of Yucay"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /files/Katiuska%20Olivera.pdf
+excerpt: 'This paper was made for study purposes only'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#venue: 
+#paperurl:
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Investigation of the deficiencies in the collection of Yucay and its consequences in the preservation of the Inca culture and the well-being of the inhabitants of the Yucay Valley. 
+You can check it out.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download ](https://katiuskaolivera.github.io//files/Katiuska%20Olivera.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

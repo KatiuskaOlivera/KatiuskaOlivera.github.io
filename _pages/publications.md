@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Essays of an undergraduate"
 permalink: /publications/
 author_profile: true
 ---
