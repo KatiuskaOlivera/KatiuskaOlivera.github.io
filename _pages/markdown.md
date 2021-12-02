@@ -1,5 +1,5 @@
 ---
-permalink: /Literature/
+permalink: /markdown/
 title: "Literature"
 author_profile: true
 redirect_from: 
@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Papers in inequality
+## 
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -22,7 +22,7 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Papers in economic growth
+## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
