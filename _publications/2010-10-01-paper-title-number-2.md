@@ -11,5 +11,5 @@ date: 2018-12-10
 Investigation of the deficiencies in the collection of Yucay and its consequences in the preservation of the Inca culture and the well-being of the inhabitants of the Yucay Valley. 
 You can check it out.
 
-[Download ](https://katiuskaolivera.github.io//files/Katiuska%20Olivera.pdf)
+[Download ](https://katiuskaolivera.github.io/files/The%20case%20of%20Yucay.pdf)
 
