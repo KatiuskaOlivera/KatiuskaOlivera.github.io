@@ -8,7 +8,6 @@ redirect_from:
 ---
  Because the knowledge should be able to reach everyone who wants to learn. 
 ---
-* 
 * Books in Spanish
   * [Economia Internacional - Paul Krugman](https://katiuskaolivera.github.io/files/001.%20Paul%20R.%20Krugman_%20%20Maurice%20Obstfeld%20-%20Econom%C3%ADa%20internacional%20Teor%C3%ADa%20y%20pol%C3%ADtica..pdf)
   * [Encauzados o Entrampados - Roxanna Barrantes](https://katiuskaolivera.github.io//files/Barrantes_Entrampados-o-encauzados.pdf)
