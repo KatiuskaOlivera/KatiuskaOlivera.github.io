@@ -1,9 +1,11 @@
 ---
-title: "Heating Maps of elections in Perú"
-excerpt: "[Script](https://github.com/KatiuskaOlivera/KatiuskaOlivera.github.io/blob/master/files/Mapas%20de%20calor%20.ipynb): Plot of Maps in base of the election of 2020."
+title: "Convergence Theory"
+excerpt: "[Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_4/Grupo4_Lab4_Python.ipynb): Using double lasso for convergence theory."
 collection: portfolio
 ---
-Using the data of the election of 2020 in Perú, as part of a evaluation in one class, we plot heating maps of the candidates who win in each district of Lima-Perú. 
+We are interested in how the rates at which economies of different countries grow are related to the initial wealth levels in each country controlling for country's institutional, educational, and other similar characteristics, too find the speed of convergence/divergence. This is a replicate of the paper [Janis Kueck](https://www.kaggle.com/janniskueck/double-lasso-for-the-convergence-hypothesis?scriptVersionId=68854111).  
 <br>
-[Script](https://github.com/KatiuskaOlivera/KatiuskaOlivera.github.io/blob/master/files/Mapas%20de%20calor%20.ipynb)
-<br/><img src='/images/mapita.png'>"
+[Scrip in Python](https://github.com/KatiuskaOlivera/KatiuskaOlivera.github.io/blob/master/files/Mapas%20de%20calor%20.ipynb)
+<br>
+[Scrip in R](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_4/Grupo4_lab4_R_1.ipynb)
+<br/><img src='/images/regression.png'>"
