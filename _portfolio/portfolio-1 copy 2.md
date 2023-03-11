@@ -4,9 +4,9 @@ excerpt: "[Script](https://github.com/KatiuskaOlivera/KatiuskaOlivera/blob/main/
 collection: portfolio
 ---
 This was a workgroup for a class, base in the paper of [Jannis Kueck](https://www.kaggle.com/janniskueck/ols-and-lasso-for-gender-wage-gap-inference?scriptVersionId=68863074). We replicate the results on the gender and income gap with OLS and lasso methods. <br>
-[Script in R]("https://github.com/KatiuskaOlivera/KatiuskaOlivera/blob/main/Grupo%204_lab1%20(R).ipynb")
+[Script in R](https://github.com/KatiuskaOlivera/KatiuskaOlivera/blob/main/Grupo%204_lab1%20(R).ipynb)
 <br>
-[Script in Python]("https://github.com/KatiuskaOlivera/KatiuskaOlivera/blob/main/Grupo%204_lab1%20(Python)%20(2).ipynb") 
+[Script in Python](https://github.com/KatiuskaOlivera/KatiuskaOlivera/blob/main/Grupo%204_lab1%20(Python)%20(2).ipynb) 
 <br>
 <br/><img src='/images/wagegap.png'>
 
